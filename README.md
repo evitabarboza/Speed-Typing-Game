@@ -47,8 +47,25 @@ Contributions are welcome! Feel free to:
 - 💡 Suggest new features  
 - 🔥 Submit pull requests  
 
-### 📜 License  
-This project is licensed under the **MIT License**.  
+If you would like to contribute to this project, please follow these steps:
 
-### 📧 Contact  
-For any queries or feedback, reach out to [evitabarboza](https://github.com/evitabarboza).  
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-branch`.
+5. Open a pull request.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+This project is licensed under the MIT License. You can find a copy of the license [here](https://opensource.org/licenses/MIT).
+
+
+## Contact
+
+For any inquiries, suggestions, or feedback, please contact me at:
+
+- **Email**: [evitabarboza195@gmail.com](mailto:evitabarboza195@gmail.com)
+- **GitHub**: [Evita Barboza](https://github.com/evitabarboza)
+
