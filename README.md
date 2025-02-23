@@ -1,9 +1,6 @@
 ## 🏆 Speed Typing Game  
 *A fun and interactive speed typing game built with Vue.js*  
 
-### 🚀 Live Demo  
-[Click here to play](#) *(Add your deployed link here if available)*  
-
 ### 📌 Features  
 - 🎯 **Typing Challenge** – Type the given sentence as quickly and accurately as possible.  
 - ⏳ **Timer & WPM Calculation** – Tracks your typing speed (words per minute) in real-time.  
